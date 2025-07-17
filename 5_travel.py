@@ -51,7 +51,7 @@ from notify import send
 # 比如 12 9,20 * * * 表示 9:12、20:12 执行。
 '''
 cron: 12 9 * * *
-new Env("5_旅行相关")
+new Env("5_Travel")
 '''
 
 # 创建 StringIO 对象

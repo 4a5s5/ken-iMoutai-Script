@@ -57,7 +57,7 @@ from notify import send
 # 每周星期天 15:05 开始预约
 '''
 cron: 5 15 * * 0
-new Env("6_周末欢乐购")
+new Env("6_Weekend_Reservation")
 '''
 
 # 创建 StringIO 对象

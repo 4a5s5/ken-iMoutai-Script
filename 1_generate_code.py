@@ -22,7 +22,7 @@ DEVICE_ID_DEFAULT = ""
 # --------------------
 '''
 cron: 1 1 1 1 *
-new Env("1_获取登录验证码")
+new Env("1_Generate_Code")
 '''
 
 # ***** 以下内容不用动 *****

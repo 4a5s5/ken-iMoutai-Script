@@ -51,7 +51,7 @@ from notify import send
 # 每日 18:03 定时查询并通知
 '''
 cron: 03 18 * * *
-new Env("98_查询申购结果")
+new Env("98_Check_Reservation_Result")
 '''
 
 # 创建 StringIO 对象

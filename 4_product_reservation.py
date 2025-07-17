@@ -53,7 +53,7 @@ from notify import send
 # 每日 9:10 开始预约
 '''
 cron: 10 9 * * *
-new Env("4_预约申购")
+new Env("4_Product_Reservation")
 '''
 
 # 创建 StringIO 对象

@@ -52,7 +52,7 @@ from notify import send
 # 每日 18:05 定时检查并通知
 '''
 cron: 05 18 * * *
-new Env("99_检查 TOKEN、COOKIE 有效期")
+new Env("99_Check_Token_Cookie_Validity")
 '''
 
 # 创建 StringIO 对象

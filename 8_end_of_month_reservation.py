@@ -57,7 +57,7 @@ from notify import send
 # 每 1、3-12月29日 20:05 开始预约
 '''
 cron: 5 20 29 1,3-12 *
-new Env("8_小茅好运专场-1、3-12月")
+new Env("8_End_Month_Reservation_1")
 '''
 
 # 创建 StringIO 对象
